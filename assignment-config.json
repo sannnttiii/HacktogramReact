@@ -1,0 +1,15 @@
+{
+	"name": "react-final-project-hacktogram",
+	"course": "Frontend Web Development with React",
+	"title": "ReactJS",
+	"order": 999,
+	"topics": [
+		"reactjs"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 24,
+	"metadata": {
+		"type": "final-project"
+	}
+}

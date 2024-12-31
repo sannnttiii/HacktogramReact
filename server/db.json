@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "djarotpurnomo",
+      "password": "admin#1234",
+      "fullname": "Djarot Purnomo",
+      "desc": "Admin User",
+      "profilePic": "https://images.unsplash.com/photo-1544642058-1f01423e7a16"
+    },
+    {
+      "id": "2",
+      "username": "sianton",
+      "password": "1234",
+      "fullname": "Anton Bagaskara",
+      "desc": "Akulah anton HAHAHA",
+      "profilePic": "https://images.unsplash.com/photo-1587837073080-448bc6a2329b"
+    },
+    {
+      "id": "d325",
+      "username": "kikirana",
+      "password": "12345678",
+      "fullname": "Kirana Duhita",
+      "desc": "HI! I'm Kirana 👋",
+      "profilePic": "https://images.unsplash.com/photo-1709884732259-9f2f0a52288b"
+    },
+    {
+      "id": "332b",
+      "username": "aa",
+      "password": "aa",
+      "fullname": "",
+      "description": "",
+      "profilePic": ""
+    },
+    {
+      "id": "18f3",
+      "username": "aaaaaa",
+      "password": "",
+      "fullname": "aa",
+      "description": "aa",
+      "profilePic": ""
+    },
+    {
+      "id": "a460",
+      "username": "test",
+      "password": "test",
+      "fullname": "testing",
+      "description": "hiheiq",
+      "profilePic": ""
+    }
+  ],
+  "photos": [
+    {
+      "id": "1",
+      "caption": "A lady free diving",
+      "url": "https://plus.unsplash.com/premium_photo-1683910767532-3a25b821f7ae",
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "caption": "Free diver swims with a school of fish",
+      "url": "https://images.unsplash.com/photo-1602199926649-2e5e447bab97",
+      "userId": "1"
+    },
+    {
+      "id": "3",
+      "caption": "Beautiful View of Waterfall 🥀✨",
+      "url": "https://images.unsplash.com/photo-1720884413532-59289875c3e1",
+      "userId": "1"
+    },
+    {
+      "id": "4",
+      "caption": "Early morning and lockdown.",
+      "url": "https://images.unsplash.com/photo-1590800752883-6446fe1d3da6",
+      "userId": "1"
+    },
+    {
+      "id": "a32f",
+      "caption": "Tibumana Waterfall, Indonesia",
+      "url": "https://images.unsplash.com/photo-1520936113839-69b3b2475037",
+      "userId": "2"
+    },
+    {
+      "id": "b9b4",
+      "url": "https://images.unsplash.com/photo-1576511294595-d1731bea8fbf?q=80&w=2746&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "caption": "Photo of a street with a wall full of graffiti, wall paintings of a painted cat, parked bicycles and urban writings in Amsterdam city. This are building walls of old former fabrique halls, with sharp contrasts between sunlight and shadows. I like the spontaneous combination of all these images together, including the written texts on the walls. Free images of urban street photography by Fons Heijnsbroek, October 2016, The Netherlands.",
+      "userId": "2"
+    }
+  ]
+}
